@@ -1,0 +1,27 @@
+---
+title: "La dynamique forestière du Québec face au changement climatique"
+#subtitle: ""
+author: "Willian Vieira, doctorant <br> Dominique Gravel and Robert Bradley"
+output:
+  xaringan::moon_reader:
+    self_contained: TRUE
+    includes:
+    in_header: conf/style-header.html
+    lib_dir: assets
+    seal: true
+    css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
+    nature:
+      beforeInit: "conf/style-macros.js"
+---
+
+```{r setup, echo = F}
+knitr::opts_chunk$set(
+  comment = "#",
+  collapse = TRUE,
+  #cache = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width=6, fig.height=6,
+  fig.align = 'center'
+)
+```

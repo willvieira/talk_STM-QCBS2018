@@ -1,0 +1,21 @@
+/*title page*/
+  .title-slide {
+    background-image: url(../../images/background1.png);
+    background-size: cover;
+  }
+
+  .title-slide h1,
+  .title-slide h3 {
+    text-align: left !important;
+    width: 55% !important;
+    text-shadow: none !important;
+    color: #42766a !important;
+  }
+
+  .title-slide h3 {
+    margin-top: 40px !important;
+  }
+
+  .title-slide {
+    padding: 1em 4em 1em 2em !important;
+  }
