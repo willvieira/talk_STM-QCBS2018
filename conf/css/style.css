@@ -19,3 +19,32 @@
   .title-slide {
     padding: 1em 4em 1em 2em !important;
   }
+
+/* citation in bottomright page*/
+.cite {
+    bottom: 12px;
+    font-style: italic;
+    opacity: .8;
+    position: absolute;
+    right: 100px;
+}
+
+/* page number*/
+.remark-slide-number {
+  bottom: 11px;
+  opacity: .6;
+  position: absolute;
+  right: 20px;
+}
+
+/* hyperlink color */
+a {
+  color: #42766a;
+}
+
+/* background color of inverse slide */
+.inverse {
+    background-color: #325049;
+    color: #d6d6d6;
+    text-shadow: 0 0 20px #333;
+}
