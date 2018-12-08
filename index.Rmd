@@ -1,14 +1,11 @@
 ---
-title: "The effect of forest management on the response of forest to climate change"
-#subtitle: ""
-author: "Willian Vieira, PhD candidate <br> Dominique Gravel and Robert Bradley"
 output:
   xaringan::moon_reader:
-    self_contained: TRUE
+  #  self_contained: TRUE
     includes:
-    in_header: conf/style-header.html
+      in_header: conf/style-header.html
     lib_dir: assets
-    seal: true
+    seal: false
     css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
     nature:
       beforeInit: "conf/style-macros.js"
@@ -25,7 +22,15 @@ knitr::opts_chunk$set(
   fig.align = 'center'
 )
 ```
+class: middle, title-slide
 
+# The effect of forest management on the response of forest to climate change
+
+### .large[Willian Vieira], PhD candidate <br> Dominique Gravel and Robert Bradley
+
+<i class="fa fa-github fa-2x" style="color:#335049"></i> [WillVieira/talk_STM-QCBS2018](https://github.com/willvieira/talk_STM-QCBS2018)
+
+---
 ## Challenge: future distribution under climate change
 
 .center[
