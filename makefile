@@ -9,4 +9,7 @@ $(IND).html: $(IND).Rmd $(IMG) $(CONF) $(ASS)
 server:
 	Rscript -e "xaringan::infinite_moon_reader('$(IND).Rmd')"
 
-.PHONY: server
+clean:
+	rm -rf index_cache index_files
+
+.PHONY: server clean

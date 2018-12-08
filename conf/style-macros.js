@@ -16,7 +16,6 @@ remark.macros.acic = function (size = 2) {
   return '<i class="ai ai-'+ name + ' ai-'+ size + 'x" aria-hidden="true"></i>';
 };
 
-
 // toupper (see https://github.com/gnab/remark/issues/72)
 remark.macros.upper = function () {
   // `this` is the value in the parenthesis, or undefined if left out
