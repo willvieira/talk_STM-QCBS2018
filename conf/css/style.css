@@ -70,6 +70,15 @@ a {
     width: 47%;
   }
 
+  .pull-left1 {
+    float: left;
+    width: 57%;
+  }
+  .pull-right1 {
+    float: right;
+    width: 37%;
+  }
+
   .pull-left2 {
     float: left;
     width: 67%;
