@@ -26,7 +26,7 @@ class: middle, title-slide
 
 # The effect of forest management on forest distribution under climate change
 
-### .large[Willian Vieira], PhD candidate <br> Dominique Gravel and Robert Bradley
+### .large[Willian Vieira], PhD candidate <br> .small[Isabelle Boulangeat, Robert Bradley and Dominique Gravel]
 
 <i class="fa fa-github fa-2x" style="color:#335049"></i> [WillVieira/talk_STM-QCBS2018](https://github.com/willvieira/talk_STM-QCBS2018)
 
@@ -531,10 +531,28 @@ mtext('Montreal (south)', side = 1, at = 950, line = 1.5, cex = 1)
   - Delta Abundance
 
 ### Which management practices increase the northward shift of forest?
-- Thinning + enrichment $>$ plantation $>$ harvest
+- Thinning + enrichment > plantation > harvest
 
 ---
-class: inverse, center, middle
+class: inverse
 
-# Thank you!
-## Questions?
+.pull-left1[
+# **Enrichment** and **plantation** can increase the northward shift of the Quebec forest
+  <br>
+  <br>
+  <br>
+  <br>
+**Special thanks to**
+
+Daniel Houle
+
+Bill Shipley
+
+Dominique Arseneault
+]
+
+.pull-right1[
+<br>
+<br>
+![:scale 90%](images/logo.png)
+]
