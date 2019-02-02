@@ -787,18 +787,6 @@
             </text>
           </g>
           <text
-             id="text2839-8-8-2"
-             style="font-variant:normal;font-size:11.42137814px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52116656"
-             transform="matrix(0.98223242,-0.18884283,-0.20374976,-0.97891629,0,0)"
-             x="-87.038208"
-             y="10.530621">
-            <tspan
-               id="tspan2837-6-56-6"
-               y="10.530621"
-               x="-87.038208"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ff0000;stroke-width:0.52116656">Thinning (te)</tspan>
-          </text>
-          <text
              id="text2839-8-8-2-6"
              style="font-variant:normal;font-size:11.42137814px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52116656"
              transform="matrix(0.98765091,-0.16081113,-0.17332649,-0.98428216,0,0)"
@@ -808,7 +796,7 @@
                id="tspan2837-6-56-6-0"
                y="29.711601"
                x="-90.946114"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ff0000;stroke-width:0.52116656">Enrichment</tspan>
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#ff0000;stroke-width:0.52116656">Enrichment (e)</tspan>
           </text>
         </g>
       </g>

@@ -221,7 +221,7 @@ $$P(M|B) = [\beta_T(T + M)]$$
 
 .center[![:scale 70%](images/model4b.svg)]
 
-$$P(M|B) = [\beta_T(T + M)] \times (1-te) + te$$
+$$P(M|B) = [\beta_T(T + M)] \times (1 - e) + e$$
 
 ---
 ## State and Transition Model
@@ -229,6 +229,13 @@ $$P(M|B) = [\beta_T(T + M)] \times (1-te) + te$$
 .center[![:scale 70%](images/model5.svg)]
 
 $$P(T|M) = [\theta \times \theta_T]$$
+
+---
+## State and Transition Model
+
+.center[![:scale 70%](images/model5b.svg)]
+
+$$P(T|M) = [\theta \times (1 - s) + s] \times [\theta_T \times (1 - s) + s]$$
 
 ---
 class: inverse, center,  middle
